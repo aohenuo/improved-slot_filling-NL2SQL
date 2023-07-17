@@ -1,4 +1,4 @@
-# Hybrid Ranking Network for Text-to-SQL
+# Feature Representation Learning for NL2SQL Generation Based on Coupling and Decoupling
 Code for our paper [Feature Representation Learning for NL2SQL Generation Based on Coupling and Decoupling](https://arxiv.org/abs/2306.17646v1) 
 
 ## Environment Setup
