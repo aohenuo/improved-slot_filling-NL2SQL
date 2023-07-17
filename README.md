@@ -19,7 +19,7 @@ The built image above contains processed data and is ready for training and eval
 ## Evaluation
 first you need  to evaluate its model in wikisql_prediction.py
 1. Modify model, input and output settings in `wikisql_prediction.py` and run it.
-2. Run WikiSQL evaluation script to get official numbers: `cd WikiSQL && python evaluate.py data/test.jsonl data/test.db ../output/test_out.jsonl`
+2. Run WikiSQL evaluation script to get official numbers: `cd WikiSQL && python evaluate.py`
 
 ## Trained Model
 Trained model that can reproduce reported number on WikiSQL leaderboard is attached in the releases (see under "Releases" in the right column). Model prediction outputs are also attached.
