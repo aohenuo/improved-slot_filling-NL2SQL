@@ -30,10 +30,10 @@ Run `python main.py ` to train the model
 ## original weight
 Here we prove the weight which can reproduce our results:
 
-*Final _model: `https://drive.google.com/file/d/11FvBGe1hlbv6LDeplg0X9O4-MKD9MUmN/view?usp=sharing`
+* Final _model: `https://drive.google.com/file/d/11FvBGe1hlbv6LDeplg0X9O4-MKD9MUmN/view?usp=sharing`
 
-*CFCD_S:`https://drive.google.com/file/d/1ERSjr3rhyc12-4X-QkRo5lmt17UCDg24/view?usp=sharing`
+* CFCD_S:`https://drive.google.com/file/d/1ERSjr3rhyc12-4X-QkRo5lmt17UCDg24/view?usp=sharing`
 
-*CFCD_W:`https://drive.google.com/file/d/16_1J0Liz99WEnSDkK5_F9jAHZRO_6JIy/view?usp=sharing`
+* CFCD_W:`https://drive.google.com/file/d/16_1J0Liz99WEnSDkK5_F9jAHZRO_6JIy/view?usp=sharing`
 
-*CFCD_SW:`https://drive.google.com/file/d/1VuPu0R2_kBgLP4M6jd0vi7nxjZqecSNT/view?usp=sharing`
+* CFCD_SW:`https://drive.google.com/file/d/1VuPu0R2_kBgLP4M6jd0vi7nxjZqecSNT/view?usp=sharing`
