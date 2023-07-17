@@ -28,7 +28,7 @@ you can replace the original `model.py` with `model_s`,`model_sw`,`model_w` to t
 `python main.py ` to train the model
 
 ## original weight
-Here we prove the weight which can reproduce our results: \n
+Here we prove the weight which can reproduce our results:
 final _model: `https://drive.google.com/file/d/11FvBGe1hlbv6LDeplg0X9O4-MKD9MUmN/view?usp=sharing`
 CFCD_S:`https://drive.google.com/file/d/1ERSjr3rhyc12-4X-QkRo5lmt17UCDg24/view?usp=sharing`
 CFCD_W:`https://drive.google.com/file/d/16_1J0Liz99WEnSDkK5_F9jAHZRO_6JIy/view?usp=sharing`
