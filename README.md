@@ -25,11 +25,15 @@ first you need  to evaluate its model in wikisql_prediction.py
 Trained model that can reproduce reported number on WikiSQL leaderboard is attached in the releases (see under "Releases" in the right column). Model prediction outputs are also attached.
 you first need to train three CFCD models and then couple three CFCD models with CFCC model to get thr final NL2SQL model
 you can replace the original `model.py` with `model_s`,`model_sw`,`model_w` to train the CFCD_S, CFCD_W, CFCD_SW  
-`python main.py ` to train the model
+Run `python main.py ` to train the model
 
 ## original weight
 Here we prove the weight which can reproduce our results:
+
 *Final _model: `https://drive.google.com/file/d/11FvBGe1hlbv6LDeplg0X9O4-MKD9MUmN/view?usp=sharing`
+
 *CFCD_S:`https://drive.google.com/file/d/1ERSjr3rhyc12-4X-QkRo5lmt17UCDg24/view?usp=sharing`
+
 *CFCD_W:`https://drive.google.com/file/d/16_1J0Liz99WEnSDkK5_F9jAHZRO_6JIy/view?usp=sharing`
+
 *CFCD_SW:`https://drive.google.com/file/d/1VuPu0R2_kBgLP4M6jd0vi7nxjZqecSNT/view?usp=sharing`
