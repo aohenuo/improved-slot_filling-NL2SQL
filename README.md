@@ -13,7 +13,7 @@ We can also run experiments with docker image:
 The built image above contains processed data and is ready for training and evaluation.
 
 ## Training
-1. Run `python main.py train --conf conf/wikisql.conf --gpu 0,1,2,3 --note "some note"`.
+1. Run `python main.py train`.
 2. Model will be saved to `output` folder, named by training start datetime.
 
 ## Evaluation
@@ -24,4 +24,5 @@ first you need  to evaluate its model in wikisql_prediction.py
 ## Trained Model
 Trained model that can reproduce reported number on WikiSQL leaderboard is attached in the releases (see under "Releases" in the right column). Model prediction outputs are also attached.
 you first need to train three CFCD models and then couple three CFCD models with CFCC model to get thr final NL2SQL model
-you can run the following code.
+you can replace the original `model.py` with 'model_s',`model_sw`,`model_w` to train the CFCD_S, CFCD_W, CFCD_SW  
+`python main.py ` to train the model
