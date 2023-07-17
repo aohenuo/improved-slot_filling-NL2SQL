@@ -27,7 +27,7 @@ you first need to train three CFCD models and then couple three CFCD models with
 you can replace the original `model.py` with `model_s`,`model_sw`,`model_w` to train the CFCD_S, CFCD_W, CFCD_SW  
 Run `python main.py ` to train the model
 
-## original weight
+## Original weight
 Here we prove the weight which can reproduce our results:
 
 * Final _model: `https://drive.google.com/file/d/11FvBGe1hlbv6LDeplg0X9O4-MKD9MUmN/view?usp=sharing`
